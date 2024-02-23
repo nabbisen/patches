@@ -1,10 +1,10 @@
 <script lang="ts">
-  import Greet from './lib/Greet.svelte'
+  import Scan from './lib/Scan.svelte'
 </script>
 
 <main class="container">
   <h1>Patches</h1>
   <div class="row">
-    <Greet />
+    <Scan />
   </div>
 </main>
